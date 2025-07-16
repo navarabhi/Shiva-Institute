@@ -6,7 +6,15 @@
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="theme-color" content="#4f46e5" />
   <title>Shiva Institute - Education App</title>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R3PS365BSB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-R3PS365BSB');
+</script>
   <!-- Favicon -->
   <link rel="icon" href="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/f423fae2-b625-48f0-a291-76ba894990bb.png" type="image/png" />
 
